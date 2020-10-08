@@ -12,7 +12,7 @@ I will be using NLP model to automatically generate tweets. The process is quite
 
 
 
-![Trump2](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/rtx1gzco.jpg){:height="50%" width="50%"}
+![Trump2](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/rtx1gzco.jpg |width=100px)
 *Obama voters have to use media outlets, no sources, there was NO COLLUSION and NATO people. Everybody and they refuse to see that*
 
 
