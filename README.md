@@ -1,9 +1,11 @@
 # Realest-POTUS-tweets
 
-I will be using NLP model to automatically generate tweets. The process is quite simple but I'll be making refinements later on. 
+### Executive Summary
+
+I used NLP model to automatically generate tweets with a starting seed word. The process is quite simple but I'll be making refinements later on to make it fun for a user to play with. I hope that the end product will be akin to asking Trump what he thinks about a certain topic. 
 
 The current model is based on a cleaned tweets from Trump in 2015 until 2020. There's still a lot to be done:
-1. The NLP is character based, so there are still made up words;
+1. The NLP is character based, so there are still made up words; 
 2. There appears to be a lot of strange characters in Trump's tweets, I'll need to read through them and do a thorough clean;
 3. User Input portion still needs to be done. 
 
