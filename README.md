@@ -7,13 +7,14 @@ I will be using NLP model to automatically generate tweets. The process is quite
 
 
 ![Trump1](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/images.jpg)
+
 *Hillary Clinton is actually dropped out of the race? She look away! Standing up the fact that we stopped social media suscess...*
 
 
 
-![Trump2](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/rtx1gzco.jpg)
+![Trump2](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/rtx1gzco.jpg){:height="50%" width="50%"}
 *Obama voters have to use media outlets, no sources, there was NO COLLUSION and NATO people. Everybody and they refuse to see that*
 
 
-![Trump3](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/shutterstock_editorial_10434333bm.jpg)
+![Trump3](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/shutterstock_editorial_10434333bm.jpg){:height="50%" width="50%"}
 *Hillary Clinton is totally rigged and compromise in his phony voice. It was just paid for by Crooked Hillary...*
