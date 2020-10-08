@@ -11,8 +11,7 @@ I will be using NLP model to automatically generate tweets. The process is quite
 *Hillary Clinton is actually dropped out of the race? She look away! Standing up the fact that we stopped social media suscess...*
 
 
-
-![Trump2](https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/rtx1gzco.jpg |width=100px)
+<img src="https://github.com/anthonydwan/Trump-Tweet-Generator/blob/master/rtx1gzco.jpg" width="200" />
 *Obama voters have to use media outlets, no sources, there was NO COLLUSION and NATO people. Everybody and they refuse to see that*
 
 
