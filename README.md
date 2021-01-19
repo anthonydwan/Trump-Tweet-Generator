@@ -1,4 +1,4 @@
-# Realest-POTUS-tweets
+# Realest-POTUS-tweets (NLP Text Generator)
 
 ### Executive Summary
 
